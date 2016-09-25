@@ -1,14 +1,14 @@
 
 @font-face {
 font-family: "Felix Titling Regular";
-src: url("/data/fontes/FELIXTI.eot"); /* para IE */
-src: local("FELIXTI"), url("/data/fontes/FELIXTI.TTF") format("truetype");
+src: url("data/fontes/FELIXTI.eot"); /* para IE */
+src: local("FELIXTI"), url("data/fontes/FELIXTI.TTF") format("truetype");
 }
 
 @font-face {
 font-family: "Herman Decanus AH";
-src: url("/data/fontes/Herman Decanus AH.eot"); /* para IE */
-src: local("Herman Decanus AH"), url("/data/fontes/Herman Decanus AH.ttf") format("truetype");
+src: url("data/fontes/Herman Decanus AH.eot"); /* para IE */
+src: local("Herman Decanus AH"), url("data/fontes/Herman Decanus AH.ttf") format("truetype");
 }
 
 
@@ -38,7 +38,7 @@ div {
 h4{
 
  text-align: left;
- font-family: Felix Titling;
+ font-family: "Felix Titling Regular";
  color: white;
  font-size: 30px;
 }
@@ -65,7 +65,7 @@ h4{
 
 header{
 
-	font-family: Herman Decanus AH;
+	font-family: "Herman Decanus AH";
 	font-size: 200px;
 	line-height: 100px;
 	text-align: center;
@@ -76,7 +76,7 @@ header{
 }
 
 footer{
-	font-family: georgia;
+	font-family: Georgia;
 	color:white;
 }
 
