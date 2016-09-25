@@ -1,0 +1,82 @@
+
+@font-face {
+font-family: "Felix Titling Regular";
+src: url("/data/fontes/FELIXTI.eot"); /* para IE */
+src: local("FELIXTI"), url("/data/fontes/FELIXTI.TTF") format("truetype");
+}
+
+@font-face {
+font-family: "Herman Decanus AH";
+src: url("/data/fontes/Herman Decanus AH.eot"); /* para IE */
+src: local("Herman Decanus AH"), url("/data/fontes/Herman Decanus AH.ttf") format("truetype");
+}
+
+
+img.criatura{
+	border-radius: 50%;
+	background-color: black;
+	float:left;
+	padding: 2%;
+	margin:7%;
+	height:40%;
+	width: 40%;
+	border:6px double white;
+}
+
+  
+
+div {
+    
+	border-radius: 100px;
+	text-align: justify;
+	background-color: #121212;
+	padding: 50px 100px 50px 100px;	
+}
+
+ 
+
+h4{
+
+ text-align: left;
+ font-family: Felix Titling;
+ color: white;
+ font-size: 30px;
+}
+
+
+.texto{
+	padding: 200px;
+	font-family: georgia;
+	color: #b9b9b9;
+	background-color: black;
+}
+
+#menu a{ 
+	padding: 12px 12px 12px 12px;
+	background-color: #121212;
+	font-family: Felix Titling;
+	font-size: 13px;    
+	color: #6e6e6e;    
+}
+
+#menu a:hover{
+	color: white;  
+}
+
+header{
+
+	font-family: Herman Decanus AH;
+	font-size: 200px;
+	line-height: 100px;
+	text-align: center;
+	color: white;
+	background-color: black;
+	padding: 50px 100px 100px 100px;
+    
+}
+
+footer{
+	font-family: georgia;
+	color:white;
+}
+
