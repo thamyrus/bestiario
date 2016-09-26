@@ -46,7 +46,7 @@ h4{
 
 .texto{
 	padding: 200px;
-	font-family: georgia;
+	font-family: Georgia;
 	color: #b9b9b9;
 	background-color: black;
 }
@@ -54,7 +54,7 @@ h4{
 #menu a{ 
 	padding: 12px 12px 12px 12px;
 	background-color: #121212;
-	font-family: Felix Titling;
+	font-family: "Felix Titling Regular";
 	font-size: 13px;    
 	color: #6e6e6e;    
 }
