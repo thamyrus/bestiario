@@ -75,6 +75,13 @@ header{
     
 }
 
+ body {
+	 		
+	width:1366px;
+        height:768px;
+			
+		}
+
 footer{
 	font-family: Georgia;
 	color:white;
