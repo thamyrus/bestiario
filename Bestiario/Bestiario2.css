@@ -1,0 +1,34 @@
+
+
+#criatura{
+float:left;
+padding: 15px;
+width: 500px;
+}
+
+.texto{
+margin-bottom: 150px;
+font-family: tahoma;
+color:black;
+}
+
+#menu a{ 
+font-size: 16px;    
+color: black;    
+}
+
+#menu a:hover{
+color: gray;  
+}
+
+section{
+	font-family: Bookman Old Style;
+font-size: 40px;
+color:black;    
+    
+}
+
+footer{
+font-family: tahoma;
+color:black;
+}
